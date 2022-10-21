@@ -1,6 +1,6 @@
 # Sushi Detector
 
-Object and segment detection with sushi using knowledge distillation and filter pruning.
+Object and segment detection with sushi-containing-images using knowledge distillation and filter pruning.
 
 <!-- Teacher-student network. -->
 
