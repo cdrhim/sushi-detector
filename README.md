@@ -1,3 +1,3 @@
 # Sushi Detector
 
-Object detection with sushi
+Object detection with sushi using knowledge distillation and filter pruning.
